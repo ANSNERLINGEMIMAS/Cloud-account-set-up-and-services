@@ -232,7 +232,8 @@ A panel indicates that You may close this message box now...
  
   
 
-Result:
+## Result:
+
 Thus, a cloud account was successfully created in Microsoft Azure, and various services such as Compute, IoT, and Storage were explored.
 
 
