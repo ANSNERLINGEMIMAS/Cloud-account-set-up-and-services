@@ -1,3 +1,5 @@
+## Name:ANS NERLING EMIMA S
+## REG:212224040027
 ## Aim:
 To create an cloud account in AWS and to explore all of its services. 
 ## Procedure
