@@ -231,7 +231,7 @@ A panel indicates that You may close this message box now...
 
 <img width="1045" height="588" alt="image" src="https://github.com/user-attachments/assets/1259a8d0-c226-4f11-a21b-9d06b17a6394" />
 
- 
+  
   
 
 ## Result:
